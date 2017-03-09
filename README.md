@@ -1,2 +1,2 @@
 # TipCalculator
-Sample code
+Sample code, code path
