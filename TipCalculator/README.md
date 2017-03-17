@@ -32,8 +32,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Settings view
+Implemente tasks :
+* [0] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [0] Settings page to change the default tip percentage.
+* [0] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user
 
 ## License
 
